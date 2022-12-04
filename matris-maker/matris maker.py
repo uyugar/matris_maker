@@ -39,13 +39,13 @@ def emrehoca():
     t.goto(-155,130)
     t.pendown()
     t.color('white')
-    t.write("ZEYNEP & KENAN",font=("Verdana",25,"bold"))
+    t.write("panter",font=("Verdana",25,"blod"))
 
     t.penup()
     t.goto(-400,-180)
     t.pendown()
     t.color('white')
-    t.write("",font=("Verdana",30,"bold"))
+    t.write("panter&",font=("Verdana",30,"blod"))
 
     turtle.done()
 sayi1 = int(input("yüzey sayısı : "))
